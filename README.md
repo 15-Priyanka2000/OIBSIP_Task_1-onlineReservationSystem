@@ -1,9 +1,9 @@
-# Train Ticket Reservation System 
+# Online Reservation System 
 
 <!-- - Login Credentials: admin/admin -->
 
 ### About:
-This project is about the Train-Ticket-Reservation-System which is used to view Train Schedule, search trains, Seat availability, Train timings. We can also enquire about fare of different trains. We can get information about train between two stations. We can book seats online. This provides a safe and secure seat reservation system. 
+This project is about the Online-Reservation-System which is used to view Train Schedule, search trains, Seat availability, Train timings. We can also enquire about fare of different trains. We can get information about train between two stations. We can book seats online. This provides a safe and secure seat reservation system. 
 ### Online Train Information and Reservation
 <span style="color:blue">**This Website is built for following purpose:-**</span>
 - View Trains Schedule
@@ -219,5 +219,5 @@ Step 8: Default Username And Password For User Is "shashi@demo.com" And "shashi"
 
 
 #### "Suggestions and project Improvement are Invited"
-#### Shashi Raj
-##### Project Leader
+#### Priyanka Patil
+##### Java  Developer Intern
